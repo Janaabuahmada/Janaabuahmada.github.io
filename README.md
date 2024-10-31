@@ -14,6 +14,7 @@ On my third and fourth days, I worked on the gathered data fron the survey. I ha
 ### Thursday:
 On my final day of the week, I made this website using GitHub pages. I struggled a bit to get to this point. I used YouTube and some AI tools to help me. In addition my colleague Amna is helpful, we exchange our knowledge and support each other in clarifying and completing tasks that are misunderstood.
 
+My first week at Qatar Museums was an immersive experience where I observed visitor interactions, conducted surveys, analyzed data, and developed a website, all while gaining insight into digital curation and Qatar’s cultural heritage
 * * *
 
 
