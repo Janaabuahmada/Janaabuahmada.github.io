@@ -16,5 +16,5 @@ On my final day of the week, I made this website using GitHub pages. I struggled
 
 * * *
 
- <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/5/58/Qatar_Museums_logo.png" type="image/png">
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" height="60" alt="Excel logo" />
 
