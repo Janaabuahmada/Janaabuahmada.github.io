@@ -11,9 +11,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Week 1 in Qatar Museums
-
-
+This report summarizes my first week internship experience at Qatar Musuems, which has started in 27.Oct 2024. I am currently in the digital experience department. The purpose of this internship is to gain practical experience and apply theoretical knowledge acquired from studying Applied Mathematics and Statistics.
 
 ## Header 2
 
