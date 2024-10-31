@@ -1,26 +1,13 @@
 # Jana Abuahmada's Internship in QM
 
-This report summarizes my first week internship experience at Qatar Museums, which has started in 27.Oct 2024. I am currently in the digital experience department. The purpose of this internship is to gain practical experience and apply theoretical knowledge acquired from studying Applied Mathematics and Statistics throughout my university years.
-
-## My First Day:
+This report summarizes my first week internship experience at Qatar Museums, which has started in 27.Oct 2024. I am currently in the digital experience department. The purpose of this internship is to gain practical experience and apply theoretical knowledge acquired from studying Applied Mathematics and Statistics throughout my university years. I will go into some details by talking about each day in this week.
+```
+## Sunday:
 On my first day as an intern at Qatar Museums, I had the chance to meet my welcoming colleagues, who were eager to share their insights and experiences. Having never visited the National Museum of Qatar before, the guided tour was especially captivating. Despite being born in Qatar, I found myself learning so much about the country’s rich history and culture that I hadn’t previously known. After the tour, we observed how visitors interacted with the museum’s multimedia displays, taking detailed notes on their engagement and reactions to various installations. It was fascinating to experience both the exhibits and visitor behavior, making for an insightful start to my internship.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Monday:
+
 
 #### Header 4
 
