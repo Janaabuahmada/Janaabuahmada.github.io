@@ -2,11 +2,10 @@
 
 This report summarizes my first week internship experience at Qatar Museums, which has started in 27.Oct 2024. I am currently in the digital experience department. The purpose of this internship is to gain practical experience and apply theoretical knowledge acquired from studying Applied Mathematics and Statistics throughout my university years.
 
-## Header 2
+* * *
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## My First Day:
+
 
 ### Header 3
 
