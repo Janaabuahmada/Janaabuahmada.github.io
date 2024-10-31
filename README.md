@@ -1,4 +1,4 @@
-# Janaabuahmada.github.io
+# Jana Abuahmada
 ---
 layout: default
 ---
