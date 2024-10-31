@@ -16,4 +16,5 @@ On my final day of the week, I made this website using GitHub pages. I struggled
 
 * * *
 
+ <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/5/58/Qatar_Museums_logo.png" type="image/png">
 
